@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+
+#principal{
+    display: block;
+    width: 500px;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #999999;
+    background: #DDDDDD;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    border-radius: 20px;
+
+    box-shadow: rgb(16, 175, 18) 5px 5px 10px;
+
+    background: linear-gradient(top, #FFFFFF, #999999);
+    background: -webkit-radial-gradient(top, #FFFFFF, #999999);
+    background: -moz-linear-gradient(top, #FFFFFF, #999999);
+
+
+}
+
+#titulo{
+    font-family: 'Roboto', sans-serif;
+    font: bold 36px;
+    text-shadow: rgb(0 , 0, 150) 3px 3px 5px;
+}
